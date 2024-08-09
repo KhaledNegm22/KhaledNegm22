@@ -8,4 +8,5 @@
   - LinkedIn: [Khaled Mahmoud](https://www.linkedin.com/in/khaled-mahmoudd)
 
 🚀 Open to collaboration and eager to connect with like-minded professionals!
+📄 [Check out my CV](Khaled-Mahmoud-Shabaan-CV.pdf)
 
