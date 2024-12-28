@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Khaled!
 
-- 🔭 Currently working on various Data Analysis Projects
+- 🔭 Currently working on various Data Science Projects
 - 🌱 Learning Machine Learning 
 - 🤔 Seeking guidance and opportunities for an entry-level role as a junior data scientist
 - 📫 How to reach me: 
