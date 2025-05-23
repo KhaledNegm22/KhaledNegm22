@@ -1,11 +1,10 @@
-## Hi there 👋, I'm Khaled!
 
-- 🔭 Currently working on various Data Science Projects
-- 🌱 Learning Machine Learning 
-- 📫 How to reach me: 
-  - Gmail: khaledmahmoudnegm@gmail.com
-  - LinkedIn: [Khaled Mahmoud](https://www.linkedin.com/in/khaled-mahmoudd)
+Hi there 👋, I'm Khaled Negm!
+I'm a Data Engineer transitioning from Machine Learning, with experience in building ETL pipelines and data-driven solutions. I recently completed an ML Engineer internship at InnoTech-SA.
 
-🚀 Open to collaboration and eager to connect with like-minded professionals!
-📄 [Check out my CV](Khaled_Mahmoud_CV.pdf)
+🔭 Working on: Data engineering projects like an IELTS Exam Simulator using generative AI and ETL workflows.
+🌱 Learning: ETL/ELT pipelines, Apache Airflow, and cloud data tools (AWS, GCP).
+🛠 Skills: Python, SQL, AWS (S3, Glue, Redshift), Airflow, Spark, Power BI, Docker.
+🚀 Open to: Data engineering roles and collaborations.
+📫 Reach me: khaledmahmoudnegm@gmail.com | [LinkedIn](https://www.linkedin.com/in/khaled-mahmoudd/)
 
