@@ -6,5 +6,5 @@ I'm a Data Engineer transitioning from Machine Learning, with experience in buil
 🌱 Learning: ETL/ELT pipelines, Apache Airflow, and cloud data tools (AWS, GCP).
 🛠 Skills: Python, SQL, AWS (S3, Glue, Redshift), Airflow, Spark, Power BI, Docker.
 🚀 Open to: Data engineering roles and collaborations.
-📫 Reach me: khaledmahmoudnegm@gmail.com | [LinkedIn](https://www.linkedin.com/in/khaled-mahmoudd/) | [MY_CV](Khaled-Negm-Data-Engineer.pdf)
+📫 Reach me: khaledmahmoudnegm@gmail.com | [LinkedIn](https://www.linkedin.com/in/khaled-mahmoudd/) | [MY_CV](Khaled_Negm-Data-Engineer_CV.pdf)
 
